@@ -6,6 +6,7 @@ import WebApp from '@twa-dev/sdk'
 
 WebApp.ready();
 
+
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <App />
